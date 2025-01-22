@@ -1,4 +1,4 @@
-# GTA5 Player Behavior and Sentiment Analysis
+# Player Behavior and Sentiment Analysis
 
 A data-driven analysis of player behavior patterns and sentiment, examining seasonal trends, player demographics, and key factors affecting user satisfaction through review analysis and playtime data.
 
